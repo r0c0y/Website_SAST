@@ -360,7 +360,7 @@ a {
 
 .stats-wrapper {
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 0 7.5rem;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
