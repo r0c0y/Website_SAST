@@ -22,6 +22,7 @@ import Members from "./pages/Members.jsx";
 import MemberProfile from "./pages/MemberProfile.jsx";
 import ContributorProfile from "./pages/ContributorProfile.jsx";
 import Contributors from "./pages/Contributors.jsx";
+import DocsHub from "./pages/DocsHub.jsx";
 
 import { Ion } from "cesium";
 Ion.defaultAccessToken = import.meta.env.VITE_CESIUM_TOKEN;
@@ -56,6 +57,8 @@ const AppContent = () => {
           <Route path="/community/members/:slug" element={<MemberProfile />} />
           <Route path="/contributors" element={<Contributors />} />
           <Route path="/contributors/:slug" element={<ContributorProfile />} />
+          <Route path="/docs/*" element={<DocsHub />} />
+
         </Routes>
       </main>
     </>

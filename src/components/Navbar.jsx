@@ -63,33 +63,17 @@ const Navbar = () => {
 
           <nav className={`main-nav ${menuOpen ? "active" : ""}`}>
             <ul className="nav-links">
-              <li>
-                <Link to="/" onClick={closeMenu}>Home</Link>
-              </li>
-              <li>
-                <Link to="/newsletter" onClick={closeMenu}>Newsletter</Link>
-              </li>
-              <li>
-                <Link to="/events" onClick={closeMenu}>Events</Link>
-              </li>
-              <li>
-                <Link to="/projects" onClick={closeMenu}>Projects</Link>
-              </li>
-              <li>
-                <Link to="/community/members" onClick={closeMenu}>Members</Link>
-              </li>
-              <li>
-                <Link to="/contributors" onClick={closeMenu}>Contributors</Link>
-              </li>
-              <li>
-                <Link to="/register" onClick={closeMenu}>Register</Link>
-              </li>
-              <li>
-                <Link to="/news" onClick={closeMenu}>Astronomy News</Link>
-              </li>
-              <li>
-                <Link to="/track" onClick={closeMenu}>Track</Link>
-              </li>
+              <li><Link to="/" onClick={closeMenu}>Home</Link></li>
+              <li><Link to="/newsletter" onClick={closeMenu}>Newsletter</Link></li>
+              <li><Link to="/events" onClick={closeMenu}>Events</Link></li>
+              <li><Link to="/projects" onClick={closeMenu}>Projects</Link></li>
+              <li><Link to="/community/members" onClick={closeMenu}>Members</Link></li>
+              <li><Link to="/contributors" onClick={closeMenu}>Contributors</Link></li>
+              <li><Link to="/register" onClick={closeMenu}>Register</Link></li>
+              <li><Link to="/news" onClick={closeMenu}>Astronomy News</Link></li>
+              <li><Link to="/track" onClick={closeMenu}>Track</Link></li>
+              {/* 🧭 Added Docs link */}
+              <li><Link to="/docs" onClick={closeMenu}>Docs</Link></li>
             </ul>
           </nav>
 
