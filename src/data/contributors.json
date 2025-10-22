@@ -135,5 +135,21 @@
       "community": null
     },
     "repos": ["Website"]
+  },
+  {
+    "slug": "mayank-sharma",
+    "name": "Mayank Sharma",
+    "role": "Member",
+    "location": "Village Jaggi Halduchaur Haldwani Lalkuan Nainital Uttarakhand",
+    "bio": "Open Source Contributor",
+    "status": "active",
+    "avatarUrl": "https://drive.google.com/file/d/1qeKVQ-1do2d0evou28F_-NeX9Xv6cTIi/view?usp=sharing",
+    "links": {
+      "github": "https://github.com/MAYANKSHARMA01010",
+      "x": "https://x.com/MayankS23610",
+      "linkedin": "www.linkedin.com/in/mayanksharma3369",
+      "community": null
+    },
+    "repos": ["Website"]
   }
 ]
