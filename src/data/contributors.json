@@ -135,5 +135,20 @@
       "community": null
     },
     "repos": ["Website"]
+  },
+  {
+    "slug": "yuvansh-juneja",
+    "name": "Yuvansh Juneja",
+    "role": "Contributor",
+    "location": "Haryana, India",
+    "bio": "Always exploring new ideas and chasing what inspires me.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173408975?s=400&u=3f98663e6f0bdd75e18890e419a0cd783790cc74&v=4",
+    "links": {
+      "github": "https://github.com/Yuvanshj",
+      "x": "https://x.com/YuvanshJuneja",
+      "linkedin": "www.linkedin.com/in/yuvansh-juneja-905679332",
+      "community": ""
+    },
+    "repos": ["Website"]
   }
 ]
