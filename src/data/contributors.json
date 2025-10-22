@@ -61,19 +61,19 @@
     "repos": ["Website"]
   },
   {
-    "slug": "neelanshu-karn",
-    "name": "Neelanshu Karn",
-    "role": "Maintainer",
-    "location": "Prayagraj, Uttar Pradesh",
-    "bio": "President SAST, Tech Leader - Leads Innovation through Technology",
-    "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG5IMAd_OxYLg/profile-displayphoto-shrink_800_800/B4EZWOxzmZH0Ac-/0/1741857176517?e=1762992000&v=beta&t=3t-vI4PiVQ44pqGZr2NW531NIn430G3Fh_FxZhSo1zA",
-    "links": {
-      "github": "https://github.com/karn-cyber",
-      "linkedin": "https://www.linkedin.com/in/neelanshu-karn-05146130a/?originalSubdomain=in",
-      "community": "https://www.linkedin.com/company/society-for-aerospace-and-space-technology/?viewAsMember=true"
-    },
-    "repos": ["Website", "Orbion", "Nebula"]
+  "slug": "neelanshu-karn",
+  "name": "Neelanshu Karn",
+  "role": "Maintainer",
+  "location": "Prayagraj, Uttar Pradesh",
+  "bio": "President, SAST | Tech Leader | Clan Leader | Innovating at the Intersection of Space and Technology. As the President of the Society for Astrophysics and Space Technology (SAST) and a Clan Leader at Rishihood University, I lead diverse teams of innovators driven by curiosity and purpose. Passionate about bridging space exploration with emerging technologies — from building satellite prototypes to fostering tech-driven research and learning. With a background in Computer Science and Artificial Intelligence, I focus on turning ideas into impact, empowering students to explore, create, and lead through innovation.",
+  "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG5IMAd_OxYLg/profile-displayphoto-shrink_800_800/B4EZWOxzmZH0Ac-/0/1741857176517?e=1762992000&v=beta&t=3t-vI4PiVQ44pqGZr2NW531NIn430G3Fh_FxZhSo1zA",
+  "links": {
+    "github": "https://github.com/karn-cyber",
+    "linkedin": "https://www.linkedin.com/in/neelanshu-karn-05146130a/?originalSubdomain=in",
+    "community": "https://www.linkedin.com/company/society-for-aerospace-and-space-technology/?viewAsMember=true"
   },
+  "repos": ["Website", "Orbion", "Nebula"]
+},
   {
     "slug": "sai-sathwik-anchuri",
     "name": "Sai Sathwik Anchuri",
