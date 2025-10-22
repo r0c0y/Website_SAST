@@ -384,11 +384,13 @@ a {
 
 .stats-wrapper {
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 0 7.5rem;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   gap: 2rem;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .stats-header {
@@ -399,6 +401,7 @@ a {
   font-size: 1.25rem;
   font-weight: 600;
   line-height: 1.4;
+  text-align: left;
 }
 
 .stats-grid {
@@ -435,15 +438,40 @@ a {
   .stats-wrapper {
     flex-direction: row;
     align-items: center;
+    justify-content: space-between;
+    max-width: 100%;
+    overflow: hidden;
   }
 
   .stats-grid {
     justify-content: flex-end;
+    flex: 1;
+    min-width: 0;
   }
 
   .stats-title {
     position: relative;
-    left: -6rem;
+    left: 0;
+    max-width: 300px;
+    flex-shrink: 0;
+  }
+}
+
+/* Additional responsive handling for very wide screens */
+@media (min-width: 1400px) {
+  .stats-wrapper {
+    max-width: 1400px;
+    padding: 0 2rem;
+  }
+}
+
+@media (max-width: 1200px) and (min-width: 769px) {
+  .stats-wrapper {
+    padding: 0 1rem;
+  }
+  
+  .stats-title {
+    max-width: 250px;
   }
 }
 
