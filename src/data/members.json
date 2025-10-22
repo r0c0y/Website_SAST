@@ -17,7 +17,7 @@
   {
     "slug": "kavya-katal",
     "name": "Kavya Katal",
-    "role": "Contributor",
+    "role": "Member",
     "location": "Faridabad, Haryana, India",
     "bio": "Passionate Full Stack Developer and AI enthusiast exploring the intersection of Open Source, Cloud Native, and Web Technologies. I enjoy contributing to developer communities, building scalable solutions, and continuously learning to create impactful, innovative systems.",
     "status": "active",
@@ -30,13 +30,13 @@
     }
   },
   {
-    "slug": "neelanshu-karn",
+    "slug": "u-karn",
     "name": "Neelanshu Karn",
-    "role": "Frontend Developer",
+    "role": "Member",
     "location": "Prayagraj, Uttar Pradesh",
     "bio": "President SAST, Tech Leader - Leads Innovation through Technology",
     "status": "active",
-    "avatarUrl": "/images/members/neelanshu.jpg",
+    "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG5IMAd_OxYLg/profile-displayphoto-shrink_800_800/B4EZWOxzmZH0Ac-/0/1741857176517?e=1762992000&v=beta&t=3t-vI4PiVQ44pqGZr2NW531NIn430G3Fh_FxZhSo1zA",
     "links": {
       "github": "https://github.com/karn-cyber",
       "x": "",
