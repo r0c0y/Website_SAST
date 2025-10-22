@@ -135,5 +135,21 @@
       "community": null
     },
     "repos": ["Website"]
-  }
+  },
+{
+  "slug": "shresth_juyal",
+  "name": "Shresth Juyal",
+  "role": "Contributor",
+  "location": "India",
+  "bio": "Experiment. Commit. Improve.",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/210578986?s=400&u=53dd8763f524dbd8bb7913037544d6c10ce7ed77&v=4",
+  "links": {
+    "github": "https://github.com/Shresth-14",
+    "x": "https://x.com/shresth9577?s=11",
+    "linkedin": "https://www.linkedin.com/in/shresth-juyal-12915b358",
+    "community": null
+  },
+  "repos": ["Website"]
+}
+
 ]
