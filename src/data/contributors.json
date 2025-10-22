@@ -13,12 +13,7 @@
       "linkedin": "https://www.linkedin.com/in/",
       "community": "https://www.linkedin.com/company/society-for-aerospace-and-space-technology/?viewAsMember=true"
     },
-    "repos": [
-      "Website",
-      "FTM",
-      "Orbion",
-      "Nebula"
-    ]
+    "repos": ["Website", "FTM", "Orbion", "Nebula"]
   },
   {
     "slug": "shaik-junaid-sami",
@@ -34,9 +29,7 @@
       "linkedin": "https://www.linkedin.com/in/shaik-mohammed-junaid-sami-20885430b/",
       "community": null
     },
-    "repos": [
-      "Website"
-    ]
+    "repos": ["Website"]
   },
   {
     "slug": "kavya-mukhija",
@@ -51,9 +44,7 @@
       "linkedin": "https://www.linkedin.com/in/kavya-mukhija-59b75a323/",
       "community": "https://www.linkedin.com/company/society-for-aerospace-and-space-technology/?viewAsMember=true"
     },
-    "repos": [
-      "Website"
-    ]
+    "repos": ["Website"]
   },
   {
     "slug": "chaitanya-sai-meka",
@@ -67,9 +58,7 @@
       "linkedin": "https://www.linkedin.com/in/chaitanya-sai-meka/",
       "community": "https://www.linkedin.com/company/society-for-aerospace-and-space-technology/?viewAsMember=true"
     },
-    "repos": [
-      "Website"
-    ]
+    "repos": ["Website"]
   },
   {
     "slug": "neelanshu-karn",
@@ -83,11 +72,7 @@
       "linkedin": "https://www.linkedin.com/in/neelanshu-karn-05146130a/?originalSubdomain=in",
       "community": "https://www.linkedin.com/company/society-for-aerospace-and-space-technology/?viewAsMember=true"
     },
-    "repos": [
-      "Website",
-      "Orbion",
-      "Nebula"
-    ]
+    "repos": ["Website", "Orbion", "Nebula"]
   },
   {
     "slug": "sai-sathwik-anchuri",
@@ -101,9 +86,7 @@
       "linkedin": "https://linkedin.com/in/saisathwik-anchuri-604b85292/",
       "community": null
     },
-    "repos": [
-      "Website"
-    ]
+    "repos": ["Website"]
   },
   {
     "slug": "nakul_jaglan",
@@ -118,9 +101,7 @@
       "linkedin": "https://linkedin.com/in/nakuljaglan",
       "community": "https://www.linkedin.com/company/society-for-aerospace-and-space-technology/?viewAsMember=true"
     },
-    "repos": [
-      "Website"
-    ]
+    "repos": ["Website"]
   },
   {
     "slug": "ankit-kumar-pandey",
@@ -136,11 +117,7 @@
       "linkedin": "https://www.linkedin.com/in/ankit-pandey01/",
       "community": null
     },
-    "repos": [
-      "Website",
-      "Nebula",
-      "FTM"
-    ]
+    "repos": ["Website", "Nebula", "FTM"]
   },
   {
     "slug": "steven_anthony",
@@ -155,9 +132,7 @@
       "linkedin": "https://www.linkedin.com/in/steven-rescigno-204a8187/",
       "community": null
     },
-    "repos": [
-      "Website"
-    ]
+    "repos": ["Website"]
   },
   {
     "slug": "shresth_juyal",
@@ -172,9 +147,7 @@
       "linkedin": "https://www.linkedin.com/in/shresth-juyal-12915b358",
       "community": null
     },
-    "repos": [
-      "Website"
-    ]
+    "repos": ["Website"]
   },
   {
     "slug": "laksh-sadhwani",
@@ -190,8 +163,37 @@
       "linkedin": "https://www.linkedin.com/in/sadhwanilaksh/",
       "community": null
     },
-    "repos": [
-      "Website"
-    ]
+    "repos": ["Website"]
+  },
+  {
+    "slug": "yuvansh-juneja",
+    "name": "Yuvansh Juneja",
+    "role": "Contributor",
+    "location": "Haryana, India",
+    "bio": "Always exploring new ideas and chasing what inspires me.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173408975?s=400&u=3f98663e6f0bdd75e18890e419a0cd783790cc74&v=4",
+    "links": {
+      "github": "https://github.com/Yuvanshj",
+      "x": "https://x.com/YuvanshJuneja",
+      "linkedin": "https://www.linkedin.com/in/yuvansh-juneja-905679332",
+      "community": ""
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "mayank-sharma",
+    "name": "Mayank Sharma",
+    "role": "Member",
+    "location": "Village Jaggi Halduchaur Haldwani Lalkuan Nainital Uttarakhand",
+    "bio": "Open Source Contributor",
+    "status": "active",
+    "avatarUrl": "https://drive.google.com/file/d/1qeKVQ-1do2d0evou28F_-NeX9Xv6cTIi/view?usp=sharing",
+    "links": {
+      "github": "https://github.com/MAYANKSHARMA01010",
+      "x": "https://x.com/MayankS23610",
+      "linkedin": "https://www.linkedin.com/in/mayanksharma3369",
+      "community": null
+    },
+    "repos": ["Website"]
   }
 ]
