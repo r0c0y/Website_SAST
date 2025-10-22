@@ -225,5 +225,20 @@
       "community": ""
     },
     "repos": ["Website"]
+  },
+  {
+    "slug": "nimit-sharma",
+    "name": "Nimit Sharma",
+    "role": "Contributor",
+    "location": "Gurgaon, Haryana",
+    "bio": "First-year student at NST with a strong passion for open source development and continuous learning. Enthusiastic about exploring the intersection of technology and astronomy — from understanding celestial mechanics to building tools that make space data more accessible to everyone. Always eager to collaborate, contribute, and grow through hands-on projects that push creative and technical boundaries.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91617550?v=4",
+    "links": {
+      "github": "https://github.com/ABUDIYAAAA",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/nimit-sharma-004343273",
+      "community": null
+    },
+    "repos": ["Website", "Orbion"]
   }
 ]
