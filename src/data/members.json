@@ -17,7 +17,7 @@
   {
     "slug": "kavya-katal",
     "name": "Kavya Katal",
-    "role": "Contributor",
+    "role": "Member",
     "location": "Faridabad, Haryana, India",
     "bio": "Passionate Full Stack Developer and AI enthusiast exploring the intersection of Open Source, Cloud Native, and Web Technologies. I enjoy contributing to developer communities, building scalable solutions, and continuously learning to create impactful, innovative systems.",
     "status": "active",
@@ -30,9 +30,9 @@
     }
   },
   {
-    "slug": "neelanshu-karn",
+    "slug": "u-karn",
     "name": "Neelanshu Karn",
-    "role": "Frontend Developer",
+    "role": "Member",
     "location": "Prayagraj, Uttar Pradesh",
     "bio": "President SAST, Tech Leader - Leads Innovation through Technology",
     "status": "active",
