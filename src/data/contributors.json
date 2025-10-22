@@ -225,5 +225,20 @@
       "community": ""
     },
     "repos": ["Website"]
+  },
+  {
+    "slug": "soumadip-mishra",
+    "name": "Soumadip Mishra",
+    "role": "Contributor",
+    "location": "Kolkata, West Bengal",
+    "bio": "I am Soumadip Mishra , a student of Jadavpur University , trying to become a good software engineer.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178400002?v=4",
+    "links": {
+      "github": "https://github.com/Soumadip-Mishra",
+      "x": "https://x.com/SOUMADIP465518",
+      "linkedin": "https://www.linkedin.com/in/soumadip-mishra-4b6875326/",
+      "community": null
+    },
+    "repos": ["Website"]
   }
 ]
