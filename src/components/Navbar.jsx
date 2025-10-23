@@ -63,6 +63,10 @@ const Navbar = () => {
 
           <nav className={`main-nav ${menuOpen ? "active" : ""}`}>
             <ul className="nav-links">
+
+             
+              <li><Link to="/docs" onClick={closeMenu}>Docs</Link></li>
+
               <li>
                 <Link to="/" onClick={closeMenu}>Home</Link>
               </li>
@@ -96,6 +100,7 @@ const Navbar = () => {
               <li>
                 <Link to="/track" onClick={closeMenu}>Track</Link>
               </li>
+
 
             </ul>
           </nav>
