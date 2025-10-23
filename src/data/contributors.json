@@ -217,11 +217,26 @@
     "role": "Contributor",
     "location": "Jabalpur, Madhya Pradesh",
     "bio": "\"Leave me alone, I know what I’m doing.\" - Kimi Raikkonen",
-    "avatarUrl": "https://pin.it/3ZS73BEl6",
+    "avatarUrl": "https://drive.google.com/file/d/15t3KlqmnwtUUxarVa7Y7tan8dMErlmQR/view?usp=sharing",
     "links": {
       "github": "https://github.com/Prabhav1437",
       "x": "https://x.com/Prabhav15627081",
       "linkedin": "https://www.linkedin.com/in/prabhav-jain-32386b328/",
+      "community": ""
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "riddhima-agarwal",
+    "name": "Riddhima Agarwal",
+    "role": "Contributor",
+    "location": "Bareilly, Uttar Pradesh",
+    "bio": "Tech explorer on a mission to turn ideas into code. Forever curious, always learning, and building the future one line at a time.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205567874?v=4",
+    "links": {
+      "github": "https://github.com/RiddhimaAgarwal28",
+      "x": "https://x.com/Riddhimaagr",
+      "linkedin": "https://www.linkedin.com/in/riddhima-agarwal28/",
       "community": ""
     },
     "repos": ["Website"]
