@@ -156,7 +156,7 @@ const Events = () => {
     }));
 
   return (
-    <>
+    <div className="pt-44 md:pt-56 px-0">
       <div className="fixed top-0 left-0 w-full h-full -z-10">
         <video autoPlay loop muted className="w-full h-full object-cover">
           <source src={videoe1} type="video/mp4" />
@@ -359,7 +359,7 @@ const Events = () => {
 </section>
 
 
-    </>
+    </div>
   );
 };
 

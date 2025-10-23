@@ -39,7 +39,7 @@ const Projects = () => {
   return (
     <div className="relative w-full h-screen bg-black text-white overflow-hidden">
       {/* Filter Buttons */}
-      <div className="fixed top-[120px] left-1/2 transform -translate-x-1/2 z-50 w-full max-w-lg px-4">
+      <div className="absolute top-[120px] left-1/2 transform -translate-x-1/2 z-50 w-full max-w-lg px-4">
         <div className="flex justify-center gap-4 m-6 p-4 rounded-full bg-white/10 shadow-[0_4px_15px_rgba(255,255,255,0.15)] backdrop-blur-sm opacity-35 hover:opacity-100 transition-opacity duration-300">
           {["all", "past", "ongoing", "future"].map(type => (
             <button
@@ -58,7 +58,7 @@ const Projects = () => {
       </div>
 
       {/* Scroll Section */}
-      <section className="h-screen pt-[20vh]">
+      <section className="h-screen ">
         <div className="h-screen overflow-y-scroll snap-y snap-mandatory">
           {filtered.map((project) => (
             <div
@@ -86,14 +86,14 @@ const Projects = () => {
                 <h1 className="text-2xl sm:text-6xl font-bold text-white">
                   {project.title}
                 </h1>
-            <a
-  href={getProjectLink(project)}
-  target="_blank"
-  rel="noopener noreferrer"
-  className="learn_more h-15 w-40 sm:w-48 ml-1 sm:ml-4 text-sm sm:text-xl font-bold border border-white px-4 py-2 sm:px-8 sm:py-3 hover:scale-105 transition duration-150 flex justify-center items-center"
->
-  LEARN MORE
-</a>
+                <a
+                  href={getProjectLink(project)}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="learn_more h-15 w-40 sm:w-48 ml-1 sm:ml-4 text-sm sm:text-xl font-bold border border-white px-4 py-2 sm:px-8 sm:py-3 hover:scale-105 transition duration-150 flex justify-center items-center"
+                >
+                  LEARN MORE
+                </a>
 
               </div>
             </div>

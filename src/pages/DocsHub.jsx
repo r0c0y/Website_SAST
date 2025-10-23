@@ -206,7 +206,7 @@ export default function DocsHub() {
   }, [location.pathname, allDocs]);
 
   return (
-    <section className="w-full" style={{ paddingBottom: "6rem" }}>
+    <section className="w-full pt-44 md:pt-56 px-0" style={{ paddingBottom: "6rem" }}>
       <div style={container}>
         <DocsHeader />
 
