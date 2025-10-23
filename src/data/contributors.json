@@ -176,7 +176,7 @@
       "github": "https://github.com/Yuvanshj",
       "x": "https://x.com/YuvanshJuneja",
       "linkedin": "https://www.linkedin.com/in/yuvansh-juneja-905679332",
-      "community": ""
+      "community": null
     },
     "repos": ["Website"]
   },
@@ -222,7 +222,7 @@
       "github": "https://github.com/Prabhav1437",
       "x": "https://x.com/Prabhav15627081",
       "linkedin": "https://www.linkedin.com/in/prabhav-jain-32386b328/",
-      "community": ""
+      "community": null
     },
     "repos": ["Website"]
   },
@@ -267,7 +267,22 @@
       "github": "https://github.com/RiddhimaAgarwal28",
       "x": "https://x.com/Riddhimaagr",
       "linkedin": "https://www.linkedin.com/in/riddhima-agarwal28/",
-      "community": ""
+      "community": null
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "mohammed-yaseen",
+    "name": "Mohammed Yaseen",
+    "role": "Contributor",
+    "location": "Mysore, Karnataka",
+    "bio": "Every bug I fix is another battle won in a war nobody else can see.",
+    "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEnPoKAZkqWcw/profile-displayphoto-scale_400_400/B4EZik_SF0HoAg-/0/1755114710081?e=1762992000&v=beta&t=AUj_F06ewllb-3GSb64HBKTYyrfChxj9yrSZ42ECz6w",
+    "links": {
+      "github": "https://github.com/mohdyaseen-ind",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/mohd-yaseen-/",
+      "community": null
     },
     "repos": ["Website"]
   }
