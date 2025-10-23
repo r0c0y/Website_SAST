@@ -6,6 +6,7 @@ import Landing from "./components/Landing.jsx";
 import Navbar from "./components/Navbar.jsx";
 import Newsletter from "./components/Newsletter.jsx";
 import Events from "./components/Events.jsx";
+import EventCalendarPage from "./pages/EventCalendarPage.jsx";
 import Projects from "./components/Projects.jsx";
 import Store from "./components/Store.jsx";
 import ContributionRanks from "./pages/ContributionRanks.jsx";
@@ -23,20 +24,23 @@ import MemberProfile from "./pages/MemberProfile.jsx";
 import ContributorProfile from "./pages/ContributorProfile.jsx";
 import Contributors from "./pages/Contributors.jsx";
 import DocsHub from "./pages/DocsHub.jsx";
+import SettingsMenu from "./components/SettingsMenu.jsx";
 
 import { Ion } from "cesium";
+import useSettings from "./hooks/UseSettings.jsx";
 Ion.defaultAccessToken = import.meta.env.VITE_CESIUM_TOKEN;
 
 const AppContent = () => {
   const location = useLocation();
   const hideNavbarRoutes = ["/merch", "/contributions"];
-
+  const { settings } = useSettings();
   return (
     <>
-      <CursorEffects />
+      {settings[1].enabled && <CursorEffects />}
+      {settings[0].enabled && <NotifierSat />}
       <DiamondCursor />
-      <NotifierSat />
       <ScrollToTop />
+      <SettingsMenu />
 
       {!hideNavbarRoutes.includes(location.pathname) && <Navbar />}
 
@@ -45,6 +49,7 @@ const AppContent = () => {
           <Route path="/" element={<Landing />} />
           <Route path="/newsletter" element={<Newsletter />} />
           <Route path="/events" element={<Events />} />
+          <Route path="/calendar" element={<EventCalendarPage />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/login" element={<Login />} />
           <Route path="/merch" element={<Store />} />

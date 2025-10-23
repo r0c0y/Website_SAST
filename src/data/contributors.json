@@ -5,6 +5,7 @@
     "role": "Maintainer",
     "location": "Faridabad, Haryana, India",
     "bio": "Passionate Full Stack Developer and AI enthusiast exploring the intersection of Open Source, Cloud Native, and Web Technologies. I enjoy contributing to developer communities, building scalable solutions, and continuously learning to create impactful, innovative systems.",
+    "status": "active",
     "avatarUrl": "https://github.com/KatalKavya96.png",
     "links": {
       "github": "https://github.com/KatalKavya96",
@@ -13,5 +14,261 @@
       "community": "https://www.linkedin.com/company/society-for-aerospace-and-space-technology/?viewAsMember=true"
     },
     "repos": ["Website", "FTM", "Orbion", "Nebula"]
+  },
+  {
+    "slug": "shaik-junaid-sami",
+    "name": "Shaik Junaid Sami",
+    "role": "Contributor",
+    "location": "Kurnool, Andhra Pradesh",
+    "bio": "B.Tech student specializing in Computer Science and Artificial Intelligence at Newton School of Technology. Passionate full-stack developer with hands-on experience in the MERN stack. Skilled in problem-solving and Data Structures & Algorithms, with a strong foundation in JavaScript and Python. Eager to build scalable web applications and continuously learn new technologies to create meaningful digital experiences.",
+    "status": "active",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180095616?s=400&u=5cc49987fdf3e25995fdd72872945f925343ff88&v=4",
+    "links": {
+      "github": "https://github.com/mrstrange1708/",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/shaik-mohammed-junaid-sami-20885430b/",
+      "community": null
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "kavya-mukhija",
+    "name": "Kavya Mukhija",
+    "role": "Contributor",
+    "location": "Rajasthan, India",
+    "bio": "Computer Science and AI undergraduate at Newton School of Technology, driven by a passion for applying cutting-edge technology to tackle real-world challenges. Proficient in C++ and Java with a keen interest in machine learning. Committed to driving innovation through collaborative projects and continuous learning in the ever-evolving tech landscape.",
+    "status": "active",
+    "avatarUrl": "https://media.licdn.com/dms/image/v2/D5622AQFpmZ9lolO1XQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1731865806201?e=1762992000&v=beta&t=gz9sEjK7NEcmWnhOCMKEbVwFbuY92EtItygKZnZaCXk",
+    "links": {
+      "github": "https://github.com/KatalKavya96",
+      "linkedin": "https://www.linkedin.com/in/kavya-mukhija-59b75a323/",
+      "community": "https://www.linkedin.com/company/society-for-aerospace-and-space-technology/?viewAsMember=true"
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "chaitanya-sai-meka",
+    "name": "Chaitanya Sai Meka",
+    "role": "Contributor",
+    "location": "Rajahmundry, Andhra Pradesh, India",
+    "bio": "Open Source Contributor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176647589?v=4",
+    "links": {
+      "github": "https://github.com/ChaitanyaSai-Meka",
+      "linkedin": "https://www.linkedin.com/in/chaitanya-sai-meka/",
+      "community": "https://www.linkedin.com/company/society-for-aerospace-and-space-technology/?viewAsMember=true"
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "neelanshu-karn",
+    "name": "Neelanshu Karn",
+    "role": "Maintainer",
+    "location": "Prayagraj, Uttar Pradesh",
+    "bio": "President, SAST | Tech Leader | Clan Leader | Innovating at the Intersection of Space and Technology. As the President of the Society for Astrophysics and Space Technology (SAST) and a Clan Leader at Rishihood University, I lead diverse teams of innovators driven by curiosity and purpose. Passionate about bridging space exploration with emerging technologies — from building satellite prototypes to fostering tech-driven research and learning. With a background in Computer Science and Artificial Intelligence, I focus on turning ideas into impact, empowering students to explore, create, and lead through innovation.",
+    "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG5IMAd_OxYLg/profile-displayphoto-shrink_800_800/B4EZWOxzmZH0Ac-/0/1741857176517?e=1762992000&v=beta&t=3t-vI4PiVQ44pqGZr2NW531NIn430G3Fh_FxZhSo1zA",
+    "links": {
+      "github": "https://github.com/karn-cyber",
+      "linkedin": "https://www.linkedin.com/in/neelanshu-karn-05146130a/?originalSubdomain=in",
+      "community": "https://www.linkedin.com/company/society-for-aerospace-and-space-technology/?viewAsMember=true"
+    },
+    "repos": ["Website", "Orbion", "Nebula"]
+  },
+  {
+    "slug": "sai-sathwik-anchuri",
+    "name": "Sai Sathwik Anchuri",
+    "role": "Contributor",
+    "location": "Hyderabad, Telangana",
+    "bio": "Tech enthusiast exploring open-source, innovation, and impactful problem-solving.",
+    "avatarUrl": "https://github.com/SaiSathwikAnchuri.png",
+    "links": {
+      "github": "https://github.com/SaiSathwikAnchuri",
+      "linkedin": "https://linkedin.com/in/saisathwik-anchuri-604b85292/",
+      "community": null
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "nakul-jaglan",
+    "name": "Nakul Jaglan",
+    "role": "Contributor",
+    "location": "Delhi, India",
+    "bio": "Full Stack Developer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114090662?v=4",
+    "links": {
+      "github": "https://github.com/Nakul-Jaglan",
+      "x": "https://x.com/Nakul_Jaglan",
+      "linkedin": "https://linkedin.com/in/nakuljaglan",
+      "community": "https://www.linkedin.com/company/society-for-aerospace-and-space-technology/?viewAsMember=true"
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "ankit-kumar-pandey",
+    "name": "Ankit Kumar Pandey",
+    "role": "Contributor",
+    "location": "Delhi, India",
+    "bio": "B.Tech student specialising in Computer Science and Artificial Intelligence at Newton School of Technology. Passionate about leveraging technology to solve real-world problems. Experienced in C++ and Java. Enthusiast of machine learning, aiming to contribute to innovative projects. Always eager to learn and grow in the dynamic field of technology.",
+    "status": "active",
+    "avatarUrl": "https://media.licdn.com/dms/image/v2/D5603AQEVqh5V3TCD3w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724601446512?e=1762387200&v=beta&t=G_9xhuuj0Ai845-mHFjgsVuPz98K3vv_LDbuzO4wKXQ",
+    "links": {
+      "github": "https://github.com/Ankitgkp",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/ankit-pandey01/",
+      "community": null
+    },
+    "repos": ["Website", "Nebula", "FTM"]
+  },
+  {
+    "slug": "steven-anthony",
+    "name": "Steven Rescigno",
+    "role": "Contributor",
+    "location": "Florida, US",
+    "bio": "Software Engineer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8505293?v=4&size=64",
+    "links": {
+      "github": "https://github.com/stevenanthonyrevo",
+      "x": "https://x.com/stevenanthonyr",
+      "linkedin": "https://www.linkedin.com/in/steven-rescigno-204a8187/",
+      "community": null
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "shresth-juyal",
+    "name": "Shresth Juyal",
+    "role": "Contributor",
+    "location": "India",
+    "bio": "Experiment. Commit. Improve.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/210578986?s=400&u=53dd8763f524dbd8bb7913037544d6c10ce7ed77&v=4",
+    "links": {
+      "github": "https://github.com/Shresth-14",
+      "x": "https://x.com/shresth9577?s=11",
+      "linkedin": "https://www.linkedin.com/in/shresth-juyal-12915b358",
+      "community": null
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "laksh-sadhwani",
+    "name": "Laksh Sadhwani",
+    "role": "Contributor",
+    "location": "Bhopal, Madhya Pradesh, India.",
+    "bio": "Let's connect! | Razorpay | Sr. SDE | NITK '22 | Fitness Enthusiast | Music Lover",
+    "status": "active",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47391874?v=4",
+    "links": {
+      "github": "https://github.com/Laaaaksh",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/sadhwanilaksh/",
+      "community": null
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "yuvansh-juneja",
+    "name": "Yuvansh Juneja",
+    "role": "Contributor",
+    "location": "Haryana, India",
+    "bio": "Always exploring new ideas and chasing what inspires me.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173408975?s=400&u=3f98663e6f0bdd75e18890e419a0cd783790cc74&v=4",
+    "links": {
+      "github": "https://github.com/Yuvanshj",
+      "x": "https://x.com/YuvanshJuneja",
+      "linkedin": "https://www.linkedin.com/in/yuvansh-juneja-905679332",
+      "community": ""
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "mayank-sharma",
+    "name": "Mayank Sharma",
+    "role": "Member",
+    "location": "Village Jaggi Halduchaur Haldwani Lalkuan Nainital Uttarakhand",
+    "bio": "Open Source Contributor",
+    "status": "active",
+    "avatarUrl": "https://drive.google.com/file/d/1qeKVQ-1do2d0evou28F_-NeX9Xv6cTIi/view?usp=sharing",
+    "links": {
+      "github": "https://github.com/MAYANKSHARMA01010",
+      "x": "https://x.com/MayankS23610",
+      "linkedin": "https://www.linkedin.com/in/mayanksharma3369",
+      "community": null
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "pranay-gadh",
+    "name": "Pranay Gadh",
+    "role": "Contributor",
+    "location": "New Delhi, India",
+    "bio": "Mathematics and Computing undergraduate at DTU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187594765?s=400",
+    "links": {
+      "github": "https://github.com/Pranay22077",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/pranay22077",
+      "community": null
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "prabhav-jain",
+    "name": "Prabhav Jain",
+    "role": "Contributor",
+    "location": "Jabalpur, Madhya Pradesh",
+    "bio": "\"Leave me alone, I know what I’m doing.\" - Kimi Raikkonen",
+    "avatarUrl": "https://drive.google.com/file/d/15t3KlqmnwtUUxarVa7Y7tan8dMErlmQR/view?usp=sharing",
+    "links": {
+      "github": "https://github.com/Prabhav1437",
+      "x": "https://x.com/Prabhav15627081",
+      "linkedin": "https://www.linkedin.com/in/prabhav-jain-32386b328/",
+      "community": ""
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "soumadip-mishra",
+    "name": "Soumadip Mishra",
+    "role": "Contributor",
+    "location": "Kolkata, West Bengal",
+    "bio": "I am Soumadip Mishra , a student of Jadavpur University , trying to become a good software engineer.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178400002?v=4",
+    "links": {
+      "github": "https://github.com/Soumadip-Mishra",
+      "x": "https://x.com/SOUMADIP465518",
+      "linkedin": "https://www.linkedin.com/in/soumadip-mishra-4b6875326/",
+      "community": null
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "nimit-sharma",
+    "name": "Nimit Sharma",
+    "role": "Contributor",
+    "location": "Gurgaon, Haryana",
+    "bio": "First-year student at NST with a strong passion for open source development and continuous learning. Enthusiastic about exploring the intersection of technology and astronomy — from understanding celestial mechanics to building tools that make space data more accessible to everyone. Always eager to collaborate, contribute, and grow through hands-on projects that push creative and technical boundaries.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91617550?v=4",
+    "links": {
+      "github": "https://github.com/ABUDIYAAAA",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/nimit-sharma-004343273",
+      "community": null
+    },
+    "repos": ["Website", "Orbion"]
+  },
+  {
+    "slug": "riddhima-agarwal",
+    "name": "Riddhima Agarwal",
+    "role": "Contributor",
+    "location": "Bareilly, Uttar Pradesh",
+    "bio": "Tech explorer on a mission to turn ideas into code. Forever curious, always learning, and building the future one line at a time.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205567874?v=4",
+    "links": {
+      "github": "https://github.com/RiddhimaAgarwal28",
+      "x": "https://x.com/Riddhimaagr",
+      "linkedin": "https://www.linkedin.com/in/riddhima-agarwal28/",
+      "community": ""
+    },
+    "repos": ["Website"]
   }
 ]

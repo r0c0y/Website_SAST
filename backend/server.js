@@ -11,7 +11,6 @@ const otpRoutes = require('./routes/otpRoutes');
 
 const app = express();
 const PORT = process.env.SERVER_PORT;
-
 // CORS configuration: allow your frontend origin
 app.use(cors({
   origin: process.env.FRONTEND_URL,
