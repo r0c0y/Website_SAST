@@ -65,7 +65,7 @@
     "name": "Neelanshu Karn",
     "role": "Maintainer",
     "location": "Prayagraj, Uttar Pradesh",
-    "bio": "President SAST, Tech Leader - Leads Innovation through Technology",
+    "bio": "President, SAST | Tech Leader | Clan Leader | Innovating at the Intersection of Space and Technology. As the President of the Society for Astrophysics and Space Technology (SAST) and a Clan Leader at Rishihood University, I lead diverse teams of innovators driven by curiosity and purpose. Passionate about bridging space exploration with emerging technologies — from building satellite prototypes to fostering tech-driven research and learning. With a background in Computer Science and Artificial Intelligence, I focus on turning ideas into impact, empowering students to explore, create, and lead through innovation.",
     "avatarUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG5IMAd_OxYLg/profile-displayphoto-shrink_800_800/B4EZWOxzmZH0Ac-/0/1741857176517?e=1762992000&v=beta&t=3t-vI4PiVQ44pqGZr2NW531NIn430G3Fh_FxZhSo1zA",
     "links": {
       "github": "https://github.com/karn-cyber",
@@ -89,7 +89,7 @@
     "repos": ["Website"]
   },
   {
-    "slug": "nakul_jaglan",
+    "slug": "nakul-jaglan",
     "name": "Nakul Jaglan",
     "role": "Contributor",
     "location": "Delhi, India",
@@ -120,7 +120,7 @@
     "repos": ["Website", "Nebula", "FTM"]
   },
   {
-    "slug": "steven_anthony",
+    "slug": "steven-anthony",
     "name": "Steven Rescigno",
     "role": "Contributor",
     "location": "Florida, US",
@@ -135,7 +135,7 @@
     "repos": ["Website"]
   },
   {
-    "slug": "shresth_juyal",
+    "slug": "shresth-juyal",
     "name": "Shresth Juyal",
     "role": "Contributor",
     "location": "India",
@@ -217,7 +217,7 @@
     "role": "Contributor",
     "location": "Jabalpur, Madhya Pradesh",
     "bio": "\"Leave me alone, I know what I’m doing.\" - Kimi Raikkonen",
-    "avatarUrl": "https://pin.it/3ZS73BEl6",
+    "avatarUrl": "https://drive.google.com/file/d/15t3KlqmnwtUUxarVa7Y7tan8dMErlmQR/view?usp=sharing",
     "links": {
       "github": "https://github.com/Prabhav1437",
       "x": "https://x.com/Prabhav15627081",
@@ -238,6 +238,36 @@
       "x": "https://x.com/SOUMADIP465518",
       "linkedin": "https://www.linkedin.com/in/soumadip-mishra-4b6875326/",
       "community": null
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "nimit-sharma",
+    "name": "Nimit Sharma",
+    "role": "Contributor",
+    "location": "Gurgaon, Haryana",
+    "bio": "First-year student at NST with a strong passion for open source development and continuous learning. Enthusiastic about exploring the intersection of technology and astronomy — from understanding celestial mechanics to building tools that make space data more accessible to everyone. Always eager to collaborate, contribute, and grow through hands-on projects that push creative and technical boundaries.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91617550?v=4",
+    "links": {
+      "github": "https://github.com/ABUDIYAAAA",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/nimit-sharma-004343273",
+      "community": null
+    },
+    "repos": ["Website", "Orbion"]
+  },
+  {
+    "slug": "riddhima-agarwal",
+    "name": "Riddhima Agarwal",
+    "role": "Contributor",
+    "location": "Bareilly, Uttar Pradesh",
+    "bio": "Tech explorer on a mission to turn ideas into code. Forever curious, always learning, and building the future one line at a time.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205567874?v=4",
+    "links": {
+      "github": "https://github.com/RiddhimaAgarwal28",
+      "x": "https://x.com/Riddhimaagr",
+      "linkedin": "https://www.linkedin.com/in/riddhima-agarwal28/",
+      "community": ""
     },
     "repos": ["Website"]
   }
