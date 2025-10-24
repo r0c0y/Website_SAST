@@ -345,5 +345,20 @@
       "community": null
     },
     "repos": ["Website"]
+  },
+  {
+    "slug": "suraj-singh",
+    "name": "Suraj Singh",
+    "role": "Member",
+    "location": "Meerut, Uttar Pradesh",
+    "bio": "Full-Stack Developer(MERN) | Focused on clean code, scalability & problem solving.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199275615?v=4",
+    "links": {
+      "github": "https://github.com/surajsingh9389",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/surajsingh9389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "community": null
+    },
+    "repos": ["Website"]
   }
 ]
