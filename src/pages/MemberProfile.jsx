@@ -134,7 +134,7 @@ export default function MemberProfile() {
               className="text-2xl italic text-emerald-300/90"
               style={{ marginTop: "0.6rem" }}
             >
-              Vice President, Maintainer
+              Member
             </p>
           )}
 
