@@ -315,5 +315,20 @@
       "community": null
     },
     "repos": ["Website"]
+  },
+  {
+    "slug": "abhinav-bajpai",
+    "name": "Abhinav Bajpai",
+    "role": "Member",
+    "location": "Delhi, India",
+    "bio": "Full Stack Developer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43998907?v=4",
+    "links": {
+      "github": "https://github.com/abhinavbajpai30",
+      "x": "https://x.com/abhinavbajpai30",
+      "linkedin": "https://www.linkedin.com/in/abhinavbajpai30/",
+      "community": null
+    },
+    "repos": ["Website", "Nebula"]
   }
 ]
