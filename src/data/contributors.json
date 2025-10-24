@@ -375,5 +375,20 @@
       "community": null
     },
     "repos": ["Website"]
+  },
+  {
+    "slug": "yashi-agrawal",
+    "name": "Yashi Agrawal",
+    "role": "Contributor",
+    "location": "Azamgarh, Uttar Pradesh",
+    "bio": "Full-Stack Developer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190743490?v=4",
+    "links": {
+      "github": "https://github.com/11yashiagrawal",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/yashi-agrawal-5b7a75323",
+      "community": null
+    },
+    "repos": ["Website"]
   }
 ]
