@@ -23,7 +23,7 @@ const Projects = () => {
     if (filterType === "all") return projects;
     if (filterType === "past") return projects.filter(project => project.type === "past");
     if (filterType === "ongoing") return projects.filter(project => project.type === "current1");
-    if (filterType === "future") return projects.filter(project => project.type === "upcoming");
+    if (filterType === "future") return projects.filter(project => project.type === "upcoming") ;
     return [];
   };
 
