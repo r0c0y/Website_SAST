@@ -360,5 +360,20 @@
       "community": null
     },
     "repos": ["Website"]
+  },
+  {
+    "slug": "dhairya-goel",
+    "name": "Dhairy Goel",
+    "role": "Member",
+    "location": "Delhi, India",
+    "bio": "Open Source Contributor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77429914?v=4",
+    "links": {
+      "github": "https://github.com/dhairyagoel-git",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/dhairya-goel-b6b400306/",
+      "community": null
+    },
+    "repos": ["Website"]
   }
 ]
