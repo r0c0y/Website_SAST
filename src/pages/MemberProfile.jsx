@@ -68,6 +68,7 @@ export default function MemberProfile() {
         paddingLeft: "1.5rem",
         paddingRight: "1.5rem",
         paddingBottom: "6rem",
+        
       }}
     >
       <div
