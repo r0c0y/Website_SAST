@@ -330,5 +330,22 @@
       "community": null
     },
     "repos": ["Website", "Nebula"]
+  },
+  {
+    "slug": "# Pani2004",
+    "name": "Debashis Pani",
+    "role": "Contributor",
+    "location": "Bhubaneswar, India",
+    "bio": "I'm Debashis Pani, a backend-focused full-stack developer passionate about building scalable and meaningful software systems. I'm currently pursuing a B.Tech in Information Technology at KIIT, graduating in 2026, and have gained hands-on experience through impactful internships and national-level hackathons. My core skills include Node.js, Express.js, React, Spring Boot, PostgreSQL, MongoDB, Redis, with deployment experience using Docker, GitHub Actions, Nginx, and AWS EC2.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154724111",
+    "links": {
+      "github": "https://github.com/pani2004",
+      "x": "https://x.com/DebashisPani3",
+      "linkedin": "https://www.linkedin.com/in/debashis-pani-b28b702b3",
+      "community": null
+    },
+    "repos": ["Website"]
+
   }
 ]
+
