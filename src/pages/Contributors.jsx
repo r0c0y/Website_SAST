@@ -2,6 +2,7 @@
 import React, { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { getRepos, getContributorsByRepo, getAllContributors } from "../lib/contributors/data";
+import FilterPill from "../components/FilterPill";
 
 /* ---------------- Repo Filter Pill ---------------- */
 
@@ -95,11 +96,44 @@ export default function Contributors() {
   const allContribs = getAllContributors();
 
   const [activeRepo, setActiveRepo] = useState(repos[0] || "all");
+  const [activeFilters, setActiveFilters] = useState([]);
+
+  // Extract unique values for each filterable field
+  const availableFilters = useMemo(() => {
+    const roles = [...new Set(allContribs.map((c) => c.role).filter(Boolean))].sort();
+    const locations = [...new Set(allContribs.map((c) => c.location).filter(Boolean))].sort();
+    
+    return {
+      role: roles,
+      location: locations,
+    };
+  }, [allContribs]);
 
   const data = useMemo(() => {
-    if (!activeRepo || activeRepo === "all") return allContribs;
-    return getContributorsByRepo(activeRepo);
-  }, [activeRepo, allContribs]);
+    let filtered = allContribs;
+    if (activeRepo && activeRepo !== "all") {
+      filtered = getContributorsByRepo(activeRepo);
+    }
+
+    if (activeFilters.length > 0) {
+      filtered = filtered.filter((contributor) => {
+        return activeFilters.every((filter) => {
+          const { key, value } = filter;
+          
+          if (key === "role") {
+            return contributor.role === value;
+          }
+          if (key === "location") {
+            return contributor.location === value;
+          }
+          
+          return true;
+        });
+      });
+    }
+
+    return filtered;
+  }, [activeRepo, activeFilters, allContribs]);
 
   return (
     <React.Fragment>
@@ -131,7 +165,7 @@ export default function Contributors() {
           {/* Repo Filters (top + centered, like the Active pill on Members for mobile) */}
           <div
             className="flex w-full flex-wrap items-center justify-center gap-2"
-            style={{ marginBottom: "2.25rem" }}
+            style={{ marginBottom: "1.5rem" }}
           >
             <RepoPill
               label="all"
@@ -148,15 +182,51 @@ export default function Contributors() {
             ))}
           </div>
 
-          {/* Grid */}
-          <div
-            className="grid w-full place-items-center grid-cols-1 sm:grid-cols-2 lg:grid-cols-3"
-            style={{ gap: "2.5rem" }}
-          >
-            {data.map((c) => (
-              <ContributorCard key={c.slug} c={c} />
-            ))}
+          {/* Advanced Filters */}
+          <div style={{ marginBottom: "2.25rem" }}>
+            <FilterPill
+              activeFilters={activeFilters}
+              onFiltersChange={setActiveFilters}
+              availableFilters={availableFilters}
+            />
           </div>
+
+          {/* Results counter */}
+          {(activeFilters.length > 0 || activeRepo !== "all") && (
+            <div className="mb-4 text-center">
+              <p className="text-sm text-white/60">
+                Showing <span className="font-semibold text-emerald-400">{data.length}</span>{" "}
+                {data.length === 1 ? "contributor" : "contributors"}
+              </p>
+            </div>
+          )}
+
+          {/* Grid */}
+          {data.length > 0 ? (
+            <div
+              className="grid w-full place-items-center grid-cols-1 sm:grid-cols-2 lg:grid-cols-3"
+              style={{ gap: "2.5rem" }}
+            >
+              {data.map((c) => (
+                <ContributorCard key={c.slug} c={c} />
+              ))}
+            </div>
+          ) : (
+            <div className="py-16 text-center">
+              <p className="text-lg text-white/60">
+                No contributors found matching your filters.
+              </p>
+              <button
+                onClick={() => {
+                  setActiveFilters([]);
+                  setActiveRepo("all");
+                }}
+                className="mt-4 rounded-xl border border-emerald-400/45 bg-emerald-500/15 px-6 py-2 text-emerald-200 backdrop-blur transition hover:bg-emerald-500/20"
+              >
+                Clear all filters
+              </button>
+            </div>
+          )}
 
           <div style={{ marginTop: "3rem" }} />
         </div>
