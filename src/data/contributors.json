@@ -330,5 +330,20 @@
       "community": null
     },
     "repos": ["Website", "Nebula"]
+  },
+  {
+    "slug": "aditya-gupta",
+    "name": "Aditya Gupta",
+    "role": "Contributor",
+    "location": "Delhi, India",
+    "bio": "Frontend Developer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/226885115?v=4",
+    "links": {
+      "github": "https://github.com/AdityaGupta-2006",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/adityakgupta2006/",
+      "community": null
+    },
+    "repos": ["Website", "Nebula"]
   }
 ]
