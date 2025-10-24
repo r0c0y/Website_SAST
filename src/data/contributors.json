@@ -277,11 +277,26 @@
     "role": "Contributor",
     "location": "Jabalpur, Madhya Pradesh",
     "bio": "Hi there! I’m a web developer passionate about turning ideas into websites and apps that people enjoy using. I like coding, experimenting, and keeping things simple and fun.",
-    "avatar_url": "https://github.com/yashsri2802.png",
+    "avatarUrl": "https://github.com/yashsri2802.png",
     "links": {
       "github": "https://github.com/yashsri2802",
       "x": null,
       "linkedin": "https://www.linkedin.com/in/yash-srivastava-771315358",
+      "community": null
+    },
+    "repos": ["Website"]
+  },
+  {
+    "slug": "rishabh-singh",
+    "name": "Rishabh Singh",
+    "role": "Contributor",
+    "location": "Jalaun, Uttar Pradesh, India",
+    "bio": "Full Stack Developer specialized in MERN Stack & Next.js, with strong experience in building scalable and responsive web applications. Focused on crafting clean UIs, efficient backends, and seamless user experiences. Currently improving problem-solving with DSA and exploring Gen AI to combine software with intelligent systems.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171620801?v=4",
+    "links": {
+      "github": "https://github.com/risrajawat",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/rishabh-singh18/",
       "community": null
     },
     "repos": ["Website"]

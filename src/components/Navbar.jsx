@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React, { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import "../index.css";
 import logo from "../Landing_media/SAST.png";
 
@@ -44,9 +44,9 @@ const Navbar = () => {
           className="container header-content"
           style={{ position: "relative", width: "100%" }}
         >
-          <Link to="/" className="logo" onClick={closeMenu}>
+          <NavLink to="/" className="logo" onClick={closeMenu}>
             <img src={logo} alt="Logo" width="60" height="60" className="rounded-md" />
-          </Link>
+          </NavLink>
 
           {isMobile && (
             <button
@@ -65,23 +65,23 @@ const Navbar = () => {
             <ul className="nav-links">
 
              
-              <li><Link to="/docs" onClick={closeMenu}>Docs</Link></li>
+              <li><NavLink to="/docs" onClick={closeMenu}>Docs</NavLink></li>
 
               <li>
-                <Link to="/" onClick={closeMenu}>Home</Link>
+                <NavLink to="/" onClick={closeMenu}>Home</NavLink>
               </li>
 
               <li>
-                <Link to="/newsletter" onClick={closeMenu}>Newsletter</Link>
+                <NavLink to="/newsletter" onClick={closeMenu}>Newsletter</NavLink>
               </li>
               <li>
-                <Link to="/events" onClick={closeMenu}>Events</Link>
+                <NavLink to="/events" onClick={closeMenu}>Events</NavLink>
               </li>
               <li>
-                <Link to="/projects" onClick={closeMenu}>Projects</Link>
+                <NavLink to="/projects" onClick={closeMenu}>Projects</NavLink>
               </li>
               <li>
-                <Link to="/community/members" onClick={closeMenu}>Members</Link>
+                <NavLink to="/community/members" onClick={closeMenu}>Members</NavLink>
               </li>
                <li className="nebula-link">
                 <a href="https://nebula.sastclub.tech/" target="_blank" rel="noopener noreferrer">
@@ -89,16 +89,16 @@ const Navbar = () => {
                 </a>
               </li>
               <li>
-                <Link to="/contributors" onClick={closeMenu}>Contributors</Link>
+                <NavLink to="/contributors" onClick={closeMenu}>Contributors</NavLink>
               </li>
               <li>
-                <Link to="/register" onClick={closeMenu}>Register</Link>
+                <NavLink to="/register" onClick={closeMenu}>Register</NavLink>
               </li>
               <li>
-                <Link to="/news" onClick={closeMenu}>Astronomy News</Link>
+                <NavLink to="/news" onClick={closeMenu}>Astronomy News</NavLink>
               </li>
               <li>
-                <Link to="/track" onClick={closeMenu}>Track</Link>
+                <NavLink to="/track" onClick={closeMenu}>Track</NavLink>
               </li>
 
 
