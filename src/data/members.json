@@ -2,7 +2,7 @@
   {
     "slug": "abhinav-bajpai",
     "name": "Abhinav Bajpai",
-    "role": "Member",
+    "role": "Tech Team",
     "location": "Lucknow, Uttar Pradesh",
     "bio": "Passionate about space technology and software development. Contributing to open-source projects while exploring the fascinating world of aerospace. Enthusiastic about creating innovative solutions that bridge the gap between technology and space exploration.",
     "status": "active",
@@ -17,7 +17,7 @@
   {
     "slug": "kavya-katal",
     "name": "Kavya Katal",
-    "role": "Member",
+    "role": "Vice President",
     "location": "Faridabad, Haryana, India",
     "bio": "Passionate Full Stack Developer and AI enthusiast exploring the intersection of Open Source, Cloud Native, and Web Technologies. I enjoy contributing to developer communities, building scalable solutions, and continuously learning to create impactful, innovative systems.",
     "status": "active",
@@ -30,9 +30,9 @@
     }
   },
   {
-    "slug": "u-karn",
+    "slug": "neelanshu-karn",
     "name": "Neelanshu Karn",
-    "role": "Member",
+    "role": "President",
     "location": "Prayagraj, Uttar Pradesh",
     "bio": "President SAST, Tech Leader - Leads Innovation through Technology",
     "status": "active",
@@ -62,9 +62,9 @@
   {
     "slug": "prataya-silla",
     "name": "Prataya Silla",
-    "role": "Member",
+    "role": "UI/UX Lead",
     "location": "Rayagada, Odisha",
-    "bio": "🚀 Passionate about building scalable web applications and creative digital experiences.🎯 Currently diving deeper into backend development, open-source contributions, and real-world freelance projects.📹 Also working with motion graphics and video editing to build a strong, creative portfolio.",
+    "bio": "Passionate about building scalable web applications and creative digital experiences.🎯 Currently diving deeper into backend development, open-source contributions, and real-world freelance projects.📹 Also working with motion graphics and video editing to build a strong, creative portfolio.",
     "status": "active",
     "avatarUrl": "https://avatars.githubusercontent.com/u/185405536?v=4",
     "links": {
@@ -77,7 +77,7 @@
   {
     "slug": "rudra-pratap-singh-choudhary",
     "name": "Rudra Pratap Singh Choudhary",
-    "role": "Member",
+    "role": "Astronomy Lead",
     "location": "Neemuch, Madhya Pradesh, India",
     "bio": "Hi, I am one of the founding member of SAST with expertise in astronomy, I am volunteer at Aryabhat foundation and participated and conducted various national level astronomy quizzes.",
     "status": "active",
@@ -92,7 +92,7 @@
   {
     "slug": "ankit-kumar-pandey",
     "name": "Ankit Kumar Pandey",
-    "role": "Member",
+    "role": "Tech Team",
     "location": "Delhi",
     "bio": "B.Tech student specializing in Computer Science and Artificial Intelligence at Newton School of Technology. Passionate about leveraging technology to solve real-world problems. Experienced in C++ and Java. Enthusiast of machine learning, aiming to contribute to innovative projects. Always eager to learn and grow in the dynamic field of technology.",
     "status": "active",
@@ -124,7 +124,7 @@
   {
     "slug": "kunal-vats",
     "name": "Kunal Vats",
-    "role": "Member",
+    "role": "Tech Team",
     "location": "Bhiwadi, Rajasthan",
     "bio": null,
     "status": "active",
