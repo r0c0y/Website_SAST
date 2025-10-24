@@ -50,7 +50,7 @@ const AppContent = () => {
 
       {!hideNavbarRoutes.includes(location.pathname) && <Navbar />}
 
-      <main className="pt-44 md:pt-56 px-0">
+      <main className="">
         <Routes>
           <Route path="/" element={<Landing />} />
           <Route path="/newsletter" element={<Newsletter />} />

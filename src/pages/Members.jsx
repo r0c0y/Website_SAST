@@ -80,7 +80,7 @@ export default function Members() {
 
   return (
     <React.Fragment>
-      <section className="w-full" style={{ paddingBottom: "7rem" }}>
+      <section className="w-full pt-44 md:pt-56 px-0" style={{ paddingBottom: "7rem" }}>
         <div
           style={{
             maxWidth: "1200px",

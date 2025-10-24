@@ -94,7 +94,7 @@ export default function AstronomyNews() {
   };
 
   return (
-    <>
+    <div className="pt-44 md:pt-56 px-0">
       <div className="astronomy-news-container">
         <header className="astronomy-header">
           <h1 className="astronomy-title">Astronomy News</h1>
@@ -200,6 +200,6 @@ export default function AstronomyNews() {
           />
         </svg>
       </button>
-    </>
+    </div>
   );
 }
