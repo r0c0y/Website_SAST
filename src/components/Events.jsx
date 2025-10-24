@@ -158,8 +158,8 @@ const Events = () => {
         <section className="eventssec flex flex-col items-center mt-28 px-2">
 
           {/* 🌌 Filter Navbar */}
-          <div className="flex flex-col items-center justify-center w-full mt-8">
-            <div className="flex items-center justify-between gap-4 w-full max-w-[90vw] sm:w-[600px] mb-8">
+          <div className="flex items-center justify-center w-full mt-8 relative " >
+            <div className="flex items-center justify-between gap-4 mb-8 absolute left-40">
               <Link
                 to="/calendar"
                 className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 text-sm text-white/90 backdrop-blur hover:bg-white/10 transition-colors duration-200"
