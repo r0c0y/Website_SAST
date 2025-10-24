@@ -287,6 +287,21 @@
     "repos": ["Website"]
   },
   {
+    "slug": "yash-srivastava",
+    "name": "Yash Srivastava",
+    "role": "Contributor",
+    "location": "Jabalpur, Madhya Pradesh",
+    "bio": "Hi there! I’m a web developer passionate about turning ideas into websites and apps that people enjoy using. I like coding, experimenting, and keeping things simple and fun.",
+    "avatarUrl": "https://github.com/yashsri2802.png",
+    "links": {
+      "github": "https://github.com/yashsri2802",
+      "x": null,
+      "linkedin": "https://www.linkedin.com/in/yash-srivastava-771315358",
+      "community": null
+    },
+    "repos": ["Website"]
+  },
+  {
     "slug": "rishabh-singh",
     "name": "Rishabh Singh",
     "role": "Contributor",
