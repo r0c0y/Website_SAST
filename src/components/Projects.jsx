@@ -90,9 +90,10 @@ const Projects = () => {
                   href={getProjectLink(project)}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="learn_more h-15 w-40 sm:w-48 ml-1 sm:ml-4 text-sm sm:text-xl font-bold border border-white px-4 py-2 sm:px-8 sm:py-3 hover:scale-105 transition duration-150 flex justify-center items-center"
+                  className="learn_more h-15 w-40 sm:w-48 ml-1 sm:ml-4 text-sm sm:text-xl font-bold border border-white px-4 py-2 sm:px-8 sm:py-3 hover:scale-105 transition duration-150 flex justify-center items-center gap-1"
                 >
-                  LEARN MORE
+                  <p>LEARN </p>
+                  <p>MORE</p>
                 </a>
 
               </div>
