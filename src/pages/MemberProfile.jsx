@@ -63,7 +63,7 @@ export default function MemberProfile() {
 
   return (
     <article
-      className="w-full pt-40 "
+      className="w-full pt-30 "
       style={{
         paddingLeft: "1.5rem",
         paddingRight: "1.5rem",
