@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import React from "react";
+import React, { useEffect, useRef } from "react";
 import { Routes, Route, useLocation } from "react-router-dom";
 import "./index.css";
 import Landing from "./components/Landing.jsx";
@@ -33,12 +33,18 @@ Ion.defaultAccessToken = import.meta.env.VITE_CESIUM_TOKEN;
 const AppContent = () => {
   const location = useLocation();
   const hideNavbarRoutes = ["/merch", "/contributions"];
-  const { settings } = useSettings();
+  const { settings, getSetting } = useSettings();
+  const isPointerEnabled = getSetting("pointerAnimations");
+
+  useEffect(() => {
+    document.body.style.cursor = isPointerEnabled ? "none" : "auto";
+  }, [isPointerEnabled]);
+
   return (
     <>
-      {settings[1].enabled && <CursorEffects />}
       {settings[0].enabled && <NotifierSat />}
-      <DiamondCursor />
+      {isPointerEnabled && <CursorEffects isActive={isPointerEnabled} />}
+      <DiamondCursor isActive={isPointerEnabled} />
       <ScrollToTop />
       <SettingsMenu />
 
@@ -63,7 +69,6 @@ const AppContent = () => {
           <Route path="/contributors" element={<Contributors />} />
           <Route path="/contributors/:slug" element={<ContributorProfile />} />
           <Route path="/docs/*" element={<DocsHub />} />
-
         </Routes>
       </main>
     </>
