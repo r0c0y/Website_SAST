@@ -330,5 +330,20 @@
       "community": null
     },
     "repos": ["Website", "Nebula"]
+  },
+  {
+    "slug": "padam-rathi",
+    "name": "Padam Rathi",
+    "role": "Member",
+    "location": "Nagpur, India",
+    "bio": "Full Stack Web Developer with strong skills in Python, web development, and full-stack projects. Experienced in contributions at LinkupAI on API integrations, hackathon platforms, Firebase storage, and PDF automation. Competitive programmer (Codeforces 1151, CodeChef 1433) with 400+ problems solved across online coding platforms. Passionate about AI and solving real-world challenges through technology.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189894380",
+    "links": {
+      "github": "https://github.com/IronwallxR5",
+      "x": "https://x.com/Rathi_Padam",
+      "linkedin": "https://www.linkedin.com/in/padam-rathi-00b4b533b/",
+      "community": null
+    },
+    "repos": ["Website"]
   }
 ]
